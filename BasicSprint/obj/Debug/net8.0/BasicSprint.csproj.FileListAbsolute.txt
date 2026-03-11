@@ -1,0 +1,15 @@
+C:\Users\ma7me\Documents\northcoders\intro-week\CSharpBasics\BasicSprint1\BasicSprint\bin\Debug\net8.0\BasicSprint.exe
+C:\Users\ma7me\Documents\northcoders\intro-week\CSharpBasics\BasicSprint1\BasicSprint\bin\Debug\net8.0\BasicSprint.deps.json
+C:\Users\ma7me\Documents\northcoders\intro-week\CSharpBasics\BasicSprint1\BasicSprint\bin\Debug\net8.0\BasicSprint.runtimeconfig.json
+C:\Users\ma7me\Documents\northcoders\intro-week\CSharpBasics\BasicSprint1\BasicSprint\bin\Debug\net8.0\BasicSprint.dll
+C:\Users\ma7me\Documents\northcoders\intro-week\CSharpBasics\BasicSprint1\BasicSprint\bin\Debug\net8.0\BasicSprint.pdb
+C:\Users\ma7me\Documents\northcoders\intro-week\CSharpBasics\BasicSprint1\BasicSprint\obj\Debug\net8.0\BasicSprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ma7me\Documents\northcoders\intro-week\CSharpBasics\BasicSprint1\BasicSprint\obj\Debug\net8.0\BasicSprint.AssemblyInfoInputs.cache
+C:\Users\ma7me\Documents\northcoders\intro-week\CSharpBasics\BasicSprint1\BasicSprint\obj\Debug\net8.0\BasicSprint.AssemblyInfo.cs
+C:\Users\ma7me\Documents\northcoders\intro-week\CSharpBasics\BasicSprint1\BasicSprint\obj\Debug\net8.0\BasicSprint.csproj.CoreCompileInputs.cache
+C:\Users\ma7me\Documents\northcoders\intro-week\CSharpBasics\BasicSprint1\BasicSprint\obj\Debug\net8.0\BasicSprint.sourcelink.json
+C:\Users\ma7me\Documents\northcoders\intro-week\CSharpBasics\BasicSprint1\BasicSprint\obj\Debug\net8.0\BasicSprint.dll
+C:\Users\ma7me\Documents\northcoders\intro-week\CSharpBasics\BasicSprint1\BasicSprint\obj\Debug\net8.0\refint\BasicSprint.dll
+C:\Users\ma7me\Documents\northcoders\intro-week\CSharpBasics\BasicSprint1\BasicSprint\obj\Debug\net8.0\BasicSprint.pdb
+C:\Users\ma7me\Documents\northcoders\intro-week\CSharpBasics\BasicSprint1\BasicSprint\obj\Debug\net8.0\BasicSprint.genruntimeconfig.cache
+C:\Users\ma7me\Documents\northcoders\intro-week\CSharpBasics\BasicSprint1\BasicSprint\obj\Debug\net8.0\ref\BasicSprint.dll
