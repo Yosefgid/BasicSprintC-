@@ -8,7 +8,10 @@
             Console.WriteLine(pi);
             bool isLearningCSharpFun = true;
             Console.WriteLine(isLearningCSharpFun);
-
+            string favouriteFilm = "Avatar";
+            Console.WriteLine("My Favourite films is " + favouriteFilm);
+            favouriteFilm = "High School Musical";
+            Console.WriteLine(favouriteFilm);
         }
     }
 }
