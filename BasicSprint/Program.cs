@@ -11,6 +11,7 @@
             string firstName = "Yosef";
             printGreeting(firstName);
             Console.WriteLine(substract(10, 3));
+            Console.WriteLine(isStringLonger("Onomatopia" , 8));
         }
 
         private static void printGreeting(string name)
@@ -21,6 +22,11 @@
         private static int substract(int a, int b)
         {
             return a - b;
+        }
+
+        private static bool isStringLonger(string word, int number)
+        {
+            return word.Length > number;
         }
 
     }
