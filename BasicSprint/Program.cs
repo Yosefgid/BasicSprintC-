@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-         
+            double pi = 3.14;
+            Console.WriteLine(pi);
+
+
         }
     }
 }
